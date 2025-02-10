@@ -40,7 +40,7 @@
 </template>
 <script>
 // Libreria para lo Iconos utilizados
-import {Icon} from '@iconify/vue'
+import { Icon } from '@iconify/vue';
 
 export default{
     data(){
